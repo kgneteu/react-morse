@@ -1,0 +1,14 @@
+.morse button {
+    background-color: darkred;
+    color: whitesmoke;
+    border-radius: 50% 50%;
+    font-size: 2rem;
+    padding: 2rem;
+    cursor: pointer;
+    width: 10rem;
+    height: 10rem;
+}
+
+.morse button:hover {
+    background-color: red;
+}
